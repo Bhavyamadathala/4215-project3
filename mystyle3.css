@@ -1,0 +1,61 @@
+nav {
+    background-color: #0f35e0;
+    color: white;
+    padding: 10px;
+}
+nav ul {
+    list-style-type: none;
+    margin : 0;
+    padding : 0;
+}
+nav ul li {
+    display : inline;
+    margin-right: 20px;
+}
+nav ul li  a {
+    color : white;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    color: black;
+    text-decoration: underline;
+}
+section {
+    padding: 20px;
+}
+footer {
+    background-color: #8fcc48;
+    color: #090808;
+    text-align: center;
+    padding: 10px 0;
+}
+h1 {
+    background-color: khaki;
+    color: darkred;
+}
+h2 {
+    background-color: rgb(55, 202, 104);
+    color:deeppink;
+}
+h3 {
+    color :rgba(234, 20, 67, 0.851);
+}
+div {
+    background-color: lightgreen;
+    color: magenta;
+}
+center img {
+    background-color: lightpink;
+}
+audio {
+    background-color: brown;
+}
+video {
+    background-color: darkmagenta;
+}
+center section p {
+    background-color: cadetblue;
+}
+body {
+    background-color: rgb(232, 232, 243);
+}
